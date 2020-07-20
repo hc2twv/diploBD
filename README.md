@@ -1,2 +1,1 @@
-# diplo_big_data
-Curso de Big Data y los negocios del Diplomado en Ciencia de Datos en los negocios
+<center><strong>FACULTAD DE INGENIERÍA EN ELECTRICIDAD Y COMPUTACIÓN</strong></center><center><strong>DIPLOMADO EN CIENCIA DE DATOS PARA LOS NEGOCIOS&nbsp;</strong></center><center><strong>Laboratorio 1: MongoDB</strong></center>
