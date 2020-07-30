@@ -13,4 +13,8 @@ Los laboratorios están dividos según el día al dictarse la materia:
   - Día # 2: (Variabilidad y Database)
     - Laboratorio [Elasticsearch](https://github.com/hc2twv/diploBD/blob/master/Lab_Elasticsearch.ipynb)
     - Laboratorio [Neo4j](https://github.com/hc2twv/diploBD/blob/master/Lab_Neo4j.ipynb)
+    
+  - Día # 3: (Velocidad)
+    - Laboratorio [Spark - PySpark](https://github.com/hc2twv/diploBD/blob/master/Lab_SparkBasico.ipynb)
+    - Laboratorio [Spark]()
 
