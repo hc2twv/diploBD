@@ -16,5 +16,5 @@ Los laboratorios están dividos según el día al dictarse la materia:
     
   - Día # 3: (Velocidad)
     - Laboratorio [Spark - PySpark](https://github.com/hc2twv/diploBD/blob/master/Lab_SparkBasico.ipynb)
-    - Laboratorio [Spark]()
+    - Laboratorio [Spark](https://spark.apache.org) 
 
