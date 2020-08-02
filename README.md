@@ -20,5 +20,5 @@ Los laboratorios están dividos según el día al dictarse la materia:
    
   - Día # 4: (Viabilidad y Velocidad)
     - Laboratorio [Kafka](https://github.com/hc2twv/diploBD/blob/master/Lab_Kafka.ipynb)
-    - Laboratorio [Lambda]()
+    - Laboratorio [Lambda](https://github.com/lambci/docker-lambda#using-a-dockerfile-to-build)
 
